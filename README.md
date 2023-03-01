@@ -52,13 +52,12 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 # Screenshots of deployed app
 
-```md
 ![mainPage](./assets/mainpage.png)
 
 ![SignUpPage](./assets/signup%2Bloginpage.png)
 
 ![postPage](./assets/postpage.png)
-```
+
 
 # Links
 
